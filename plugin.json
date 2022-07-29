@@ -1,5 +1,5 @@
 {
-  "name": "NetSpyGlass (v2)",
+  "name": "NetSpyGlass (v2) Staging",
   "id": "happygears-netspyglass-datasource-v2-staging",
   "type": "datasource",
 
@@ -14,7 +14,7 @@
   "alerting": false,
 
   "info": {
-    "description": "NetSpyGlass Datasource",
+    "description": "NetSpyGlass Datasource Staging",
     "author": {
       "name": "Happy Gears Inc.",
       "url": "http://www.netspyglass.com"
